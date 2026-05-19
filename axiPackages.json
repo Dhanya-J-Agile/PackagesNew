@@ -12,6 +12,19 @@
         "PackagePushTestNew"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "PackagePushTesting",
+      "PackageDescription": "Placing Packages in repo for testing2",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-19T12:18:53Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PackagePushTesting"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
