@@ -1,0 +1,17 @@
+{
+  "Packages": [
+    {
+      "PackageName": "PackagePushTestNew",
+      "PackageDescription": "Placing Packages in repo for testing NEW",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-19T10:46:47Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "PackagePushTestNew"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
