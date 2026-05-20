@@ -39,6 +39,20 @@
         "Test1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "Package_Test2",
+      "PackageDescription": "NEW API Test new1 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-20T11:47:33Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Package",
+        "Test2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
