@@ -144,6 +144,35 @@
         "Test"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_Test_Multi2",
+      "PackageDescription": "New API test",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:55:23Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "Test",
+        "Multi2"
+      ],
+      "Category": "Enterprise"
+    },
+    {
+      "PackageName": "Testing_Multi1",
+      "PackageDescription": "NEW API Test new1 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:55:23Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Testing",
+        "Multi1"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
