@@ -260,6 +260,21 @@
         "Multiple2"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_Test_Multi3",
+      "PackageDescription": "New API test",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:57:26Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "Test",
+        "Multi3"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
