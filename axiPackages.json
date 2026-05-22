@@ -217,6 +217,20 @@
         "Multiple1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "Testing_Multiple2",
+      "PackageDescription": "NEW API Test new1 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:57:01Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "Testing",
+        "Multiple2"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
