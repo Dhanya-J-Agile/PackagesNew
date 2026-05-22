@@ -113,6 +113,37 @@
         "Package1"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_Test_Packagehhhhh",
+      "PackageDescription": "New API test",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:53:05Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "Test",
+        "Packagehhhhh"
+      ],
+      "Category": "Enterprise"
+    },
+    {
+      "PackageName": "AXI_Test_Packages_Test",
+      "PackageDescription": "NEW API Test new1 ",
+      "PackageVersion": "11.3",
+      "PackageAuthor": "Admin",
+      "PackageCreatedOn": "2026-05-22T06:53:05Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "AXI",
+        "Test",
+        "Packages",
+        "Test"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
